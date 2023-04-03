@@ -1,0 +1,9 @@
+body{
+  background-image: linear-gradient(rgb(163, 241, 250),rgb(245, 179, 234));
+  height: 100vh;
+}
+.App {
+  text-align: left;
+  font-size: 13px;
+}
+
